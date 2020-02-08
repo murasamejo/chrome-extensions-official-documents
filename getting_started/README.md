@@ -1,0 +1,2 @@
+- https://gyazo.com/593586caed2ab6241b45ecd1d054a7d6
+- [Chrome Extension - "cannot read property sync" from chrome.storage.sync : javascript](https://www.reddit.com/r/javascript/comments/9esm3t/chrome_extension_cannot_read_property_sync_from/)
